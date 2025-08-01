@@ -1,4 +1,4 @@
-# 💫 Hi 👋,I am AKASH T
+#  Hi 👋,I am AKASH T
 🌱 Currently learning full-stack development and sharpening my UI/UX skills<br>🔭 Building real-world projects to improve problem-solving and product thinking<br>✨ Always curious, always learning<br><br>📫 Let’s connect: [akasht14032007@gmail.com]<br>
 
 
